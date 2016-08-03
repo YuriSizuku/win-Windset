@@ -1,6 +1,6 @@
 #windset
 一个很简单的工具，查看窗口的信息，对窗口进行各种设定<br>
-
+![windset_screenshot](http://imgsrc.baidu.com/forum/w%3D580/sign=baec0b20793e6709be0045f70bc69fb8/ed3b29f40ad162d9efb9951b17dfa9ec8a13cd12.jpg "windset_screenshot")  
 
 ###本软件的功能：
 1.点击智代获取窗口句柄（类似于spy++），*获取本软件的句柄<br>
