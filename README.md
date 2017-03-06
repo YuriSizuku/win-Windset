@@ -28,5 +28,5 @@
 -----------
 作者:devseed<br>
 百度ID：develseed<br>
-发布地址：http://tieba.baidu.com/p/3937349434<br>
+<!--发布地址：http://tieba.baidu.com/p/3937349434<br>-->
 有bug或建议可以通过百度联系我<br>
