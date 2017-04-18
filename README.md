@@ -1,8 +1,8 @@
-#windset
+# windset
 一个很简单的工具，查看窗口的信息，对窗口进行各种设定<br>
 ![windset_screenshot](http://imgsrc.baidu.com/forum/w%3D580/sign=baec0b20793e6709be0045f70bc69fb8/ed3b29f40ad162d9efb9951b17dfa9ec8a13cd12.jpg "windset_screenshot")  
 
-###本软件的功能：
+### 本软件的功能：
 1.点击智代获取窗口句柄（类似于spy++），*获取本软件的句柄<br>
 2.设定窗口的透明度<br>
 3.点击移动窗口可以把窗口移动到屏幕外隐藏窗口<br>
@@ -15,7 +15,7 @@
 11.对窗口一些基本风格设定（并不是所有都适用,只能修改windows定义的风格）<br>
 12.改变窗口尺寸<br>
 
-###版本记录:
+### 版本记录:
 * ver1.0
   * 修复复制信息树处的内存泄漏<br>
   * 删除一些调试过程中无用代码，无用ID，完善注释<br>
